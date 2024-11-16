@@ -1,1 +1,1 @@
-checking for git changes 
+Try setting up env using docker so that CI/CD is easy. 
